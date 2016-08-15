@@ -1,0 +1,2 @@
+# anomic
+Asynchronous Nomic game
