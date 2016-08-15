@@ -1,0 +1,8 @@
+The organizational structure of the project repo will be:
+players.txt – Current players
+proposals/ – Folder with all proposals ever made.
+rules/immutable/ – Folder with all immutable rules.
+rules/mutable/ – Folder with all mutable rules
+Files in the rules folder will be of the format .txt where will be the rules number as defined by other rules.
+votes/ – Folder with all the votes
+Files in the votes folder will be of the format .txt where will be the proposed rule’s number as defined by other rules.

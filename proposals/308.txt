@@ -1,0 +1,2 @@
+Players. rules, proposals, votes and must be maintained on a public GitHub project.The initial location of this project will be at github.com/Anomics/anomic. No rules can be passed after this turn until the GitHub project repo has been setup.
+- Avani

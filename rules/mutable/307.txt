@@ -1,0 +1,1 @@
+When a player provides multiple proposals in a turn, the player can mark proposals as “dep X” to indicate that it is dependent on proposal No. X. In the event that Proposal X is rejected, or does not attain quorum for voting, all proposals marked dependent on it are also rejected.

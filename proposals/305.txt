@@ -1,0 +1,2 @@
+Update all rules’ labels to the format where continues to use the format agreed on so far for rule numbers and is an alphabetically sorted list of letters indicating the primary topics covered by the rule. The initial letters will be: P for points, C for rule-change, M for mutability, D for definitions, V for voting-rules. For e.g. this rule would become D305 since the only thing it changes is the definition of rule numbering. Rule 111 would become CV111. Rule 112 would become DP112
+- Avani
