@@ -7,3 +7,5 @@ Subsequent players will have to get consensus from current players to join – t
 Adding a player once will consist of (1) Passing a proposal to add the player, (2) any of the current members sending a GitHub invite to that player, (3) the player accepting the GitHub invite, (4) the player updating players.txt with their IRC nickname and associated GitHub username.
 
 By adding their name to players.txt, the player agrees to abide by all the current rules, and face all penalties as set by the current rules as and when they apply.
+
+- Avani

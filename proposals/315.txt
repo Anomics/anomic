@@ -4,3 +4,5 @@ Players can play at any time. A time can be set by a rule for "end-of-round", he
 Per-turn end times, similar to the EOR may be defined by other rules. However, in no event shall any per-turn end time be greater than the EOR as defined by rules at that time. All per-turn end times must complete before the EOR is reached.
 
 All players begin with zero points.
+
+- Avani
