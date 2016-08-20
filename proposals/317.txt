@@ -1,0 +1,5 @@
+Amend rule 302 to the following:
+
+The members will rotate weekly in the duty of updating the rules document, and this will switch off at 00:00 Saturday Greenwich Mean Time, starting with the player stoopcloud and then going in alphabetical order by player name.
+
+This rule will continue to apply until we have implemented a process by which all current rules are displayed on a website and updated automatically whenever there is a change in rules. Once such a process is in place, this rule can be repealed by a a proposal with a single vote other than the person who implemented the process.

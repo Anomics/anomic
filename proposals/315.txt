@@ -1,0 +1,6 @@
+Amend Rule 201 to the following:
+Players can play at any time. A time can be set by a rule for "end-of-round", hereby called "EOR". Any turn that hasn't complete all the parts (by the definition of rule 310 or any rule that succeeds it) before the EOR is deemed to be incomplete, and any and all proposals made on such a turn will be deemed to be automatically rejected. In the event that EOR has not been defined by any rule, the default EOR is 48 hrs since the previous EOR. The first EOR will be 00:00 PST following the passing of this rule.
+
+Per-turn end times, similar to the EOR may be defined by other rules. However, in no event shall any per-turn end time be greater than the EOR as defined by rules at that time. All per-turn end times must complete before the EOR is reached.
+
+All players begin with zero points.
