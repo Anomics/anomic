@@ -1,11 +1,9 @@
 Amend rule 301 to the following:
 
-The current players will be defined in the GitHub repo in players.txt. The file must contain the IRC nicknames of the players as well as their associated GitHub username.
+The current players will be defined in the GitHub repo in players.txt. The file must contain the GitHub usernames of the players as well as all associated IRC usernames they want to be known by, and any other aliases.
 
 Subsequent players will have to get consensus from current players to join – the proposal of which can be made by any of the current players. 
 
 Adding a player once will consist of (1) Passing a proposal to add the player, (2) any of the current members sending a GitHub invite to that player, (3) the player accepting the GitHub invite, (4) the player updating players.txt with their IRC nickname and associated GitHub username.
 
-By adding their name to players.txt, the player agrees to abide by all the current rules, and face all penalties as set by the current rules as and when they apply.
-
-- Avani
+By adding their name to players.txt, the player agrees to abide by all the current rules.

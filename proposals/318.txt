@@ -1,0 +1,5 @@
+Amend rule 310 to:
+
+One turn consists of three parts in this order: (1) proposing one rule-change or proposal as a single change-list to the repo under proposals/ folder, and (2) Having it voted on, with one file per proposal in votes/ folder, and (3) counting the number of votes on the proposal, and if quorum is reached, and the required number of voters have agreed, then treating the proposal as passed, and moving its file from proposals/ to rules/mutable/.
+
+- Avani
